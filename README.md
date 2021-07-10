@@ -1,1 +1,0 @@
-# CoviBot-website
