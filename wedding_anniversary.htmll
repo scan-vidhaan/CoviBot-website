@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body style="background-color:#0A1931"
+  >
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+        <h5 class="text-white h4">Welcome to the website which wishes Mamma & Pappa :)</h5>
+        <span class="text-muted">From Jai & Vidhaan &#x2665</span>
+    </div>
+  </div>
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </nav>
+  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://raw.githubusercontent.com/scan-vidhaan/covibot-picture/main/Happy%20Wedding%20Anniversary.png" class="d-block w-100"alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="https://raw.githubusercontent.com/scan-vidhaan/covibot-picture/main/I%20feel%20so%20lucky%20to%20have%20you%20as%20my%20parents.%20Wishing%20you%20a%20happy%20anniversary!.png" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="https://raw.githubusercontent.com/scan-vidhaan/covibot-picture/main/M%20Y%20E%20S%20C%20A%20P%20E.png" class="d-block w-100"  alt="...">
+      </div>
+    </div>
+  </div>
+  
+    
+  
+  <h3 class="container" > <b>A Tribute to Both Mamma & Pappa &#128519; </b></h3>
+  <img style="padding-top:40px;" src= "https://raw.githubusercontent.com/scan-vidhaan/covibot-picture/main/WhatsApp%20Image%202021-08-22%20at%201.05.26%20PM.jpeg"  width="300px" height="400px"class="rounded mx-auto d-block" alt="..."> 
+  <h4  class="baapu" style="color:white" padding-bottom="100px"><b > <u></u></b></h4>
+
+</style>
+
+
+  
+      <h4  class="baapu" style="color:white"padding-bottom="100px"> <p>Pappa, You are an inspiration to us young men, </p>
+      <h4  class="baapu" style="color:white" padding-bottom="100px"><p> Your hard work, patience and perseverance have always been an inspiration to us.</p>  </h4>
+      <h4 class="baapu" style="color:white"padding-bottom="100px"> You are indeed the best  Motivator, Guide and Father.!!!
+      
+
+    </u> </b> </h3>
+     
+     
+    
+  
+     
+      <img  style="padding-top:40px; padding-bottom:40px; "src = "https://raw.githubusercontent.com/scan-vidhaan/covibot-picture/main/WhatsApp%20Image%202021-08-22%20at%201.49.21%20PM.jpeg"  width="400px" height="400px"class="rounded mx-auto d-block" alt="...">
+      <h4  class="baapu" style="color:white" padding-bottom="100px"><p>Mamma, You are the best mother. Your Creativity, Organization skills are indeed the best. </p>
+        <h4  class="baapu" style="color:white" padding-bottom="100px"><p>Your love, care, affection to the family </p>
+            <h4  class="baapu" style="color:white" padding-bottom="100px"><p> and your hardworking nature  indeed makes you a perfectionist </p>
+                <h4  class="baapu" style="color:white" padding-bottom="100px"><p> <b> <u>Click here to view a tribute video by Jai &#x2665 </u> </b></p>
+      </h4>
+      <div class="d-grid gap-2 col-6 mx-auto">
+        <a button class="btn btn-warning" href="https://youtu.be/JujDuftrWIg" type="button">Button</button>
+       </a> 
+      </div>
+       
+ <footer>
+  <p class="cp-text">
+  Made With Love &#x2665 Jai & Vidhaan 
+</p>
+ </footer>
+ <style>
+   .cp-text{ color:white; text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 30px;
+  }
+ </style>
+   
+
+
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+    <script src="abc.js"></script>
+    <style> @mixin sp-layout {
+      @media screen and (max-width: 750px) {
+        @content;
+      }</style>
+   
+    }
+    <style>  
+    
+
+      h3 { width:1000px; margin: 2 auto;font-family:"comic sans ms"; text-align: "center";padding-left: 700px; padding-top:30px; color: white; float: center; padding-top;: 100px }
+      body {
+    background-color: white;
+  }
+  @media only screen and (max-width: 375px) {
+  
+.baapu h5{
+  padding-left:50px;
+  padding-right:40px;
+  padding-bottom:60px;
+  
+
+}
+
+
+
+
+  
+    
+    
+    </style>
+  <style>
+    .baapu{
+   font-family: "comic sans ms" ;
+  padding-left:50px;
+  padding-bottom:20px;
+  padding-right:10px;
+  
+
+}</style>
+<style></style>
+
+<script>
+   alert("Jai & Vidhaan Wishes you a happy anniversary ")
+   </script>
+<style>
+  </style>
+
+   
+  </body>
+</html>
